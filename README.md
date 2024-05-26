@@ -28,6 +28,7 @@ Results-oriented software engineer with 4 years of experience in designing and i
 ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?logo=jquery)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
+![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
