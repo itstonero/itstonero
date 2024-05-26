@@ -39,6 +39,10 @@ As a results-oriented software engineer with four years of experience, I special
 > Navigating the cloud with ease, I employ a variety of tools to ensure efficient, secure, and scalable applications. My expertise includes Docker for containerization, GitHub Actions for CI/CD pipelines, and Prometheus and Grafana for monitoring. Whether deploying with Octopus Deploy or using Jaeger for tracing, I ensure our cloud infrastructure is solid and reliable.
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure)
+![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?logo=gitlab)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions)
 ![TeamCity](https://img.shields.io/badge/-TeamCity-000000?logo=teamcity)
 ![Octopus Deploy](https://img.shields.io/badge/-Octopus%20Deploy-0D80EA?logo=octopus-deploy)
