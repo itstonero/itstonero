@@ -3,7 +3,8 @@
 **Software Engineer**
 
 [![Email](https://img.shields.io/badge/Email-asadu.anthony%40outlook.com-red)](mailto:asadu.anthony@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-itstonero-black?logo=github)](https://github.com/itstonero)
+[![GitHub](https://img.shields.io/badge/GitHub-itstonero-blue?logo=github)](https://github.com/itstonero)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-itstonero-red?logo=linkedin)](https://www.linkedin.com/in/itstonero/)
 ![Location](https://img.shields.io/badge/Location-Lagos%2C%20NG-blue)
 
 ## Summary
