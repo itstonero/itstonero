@@ -1,17 +1,19 @@
 # Software Engineer
 
 [![Email](https://img.shields.io/badge/Email-asadu.anthony%40outlook.com-red)](mailto:asadu.anthony@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-itstonero-blue?logo=github)](https://github.com/itstonero)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-itstonero-red?logo=linkedin)](https://www.linkedin.com/in/itstonero/)
+[![GitHub](https://img.shields.io/badge/GitHub-itstonero-black?logo=github)](https://github.com/itstonero)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-itstonero-white?logo=linkedin)](https://www.linkedin.com/in/chigozie-anthony-asadu/)
 ![Location](https://img.shields.io/badge/Location-Lagos%2C%20NG-blue)
 
 ## Summary
 
-Results-oriented software engineer with 4 years of experience in designing and implementing high-quality web applications and backend systems. Adept at writing clear, concise, and maintainable code, with a strong passion for agile methodologies and team collaboration. Proven expertise in optimizing website performance, enhancing security, implementing new features, improving scalability, and boosting user experience. Versatile in working independently or within teams, across various projects and company environments.
+As a results-oriented software engineer with four years of experience, I specialize in designing and implementing high-quality web applications and backend systems. My expertise lies in writing clear, concise, and maintainable code while being passionate about agile methodologies and team collaboration. I excel in optimizing website performance, enhancing security, implementing new features, improving scalability, and boosting user experience. My versatility allows me to work independently or within teams across various projects and company environments.
 
 ## Skills
 
 **Development Tooling:**  
+> My development toolkit includes a range of powerful technologies. From ASP.NET Core and MVC for robust backend development to Angular and React for dynamic front-end experiences, I am well-versed in the full stack. I also have expertise in Kafka for stream processing, NestJs for scalable server-side applications, and a variety of other tools that help me deliver top-notch solutions.
+> 
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?logo=.net)
 ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-512BD4?logo=.net)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka)
@@ -34,6 +36,8 @@ Results-oriented software engineer with 4 years of experience in designing and i
 ![Nx](https://img.shields.io/badge/-Nx-143055?logo=nx)
 
 **Cloud Tooling:**  
+> Navigating the cloud with ease, I employ a variety of tools to ensure efficient, secure, and scalable applications. My expertise includes Docker for containerization, GitHub Actions for CI/CD pipelines, and Prometheus and Grafana for monitoring. Whether deploying with Octopus Deploy or using Jaeger for tracing, I ensure our cloud infrastructure is solid and reliable.
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions)
 ![TeamCity](https://img.shields.io/badge/-TeamCity-000000?logo=teamcity)
@@ -46,6 +50,8 @@ Results-oriented software engineer with 4 years of experience in designing and i
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare)
 
 **Techniques & Preferences:**  
+> I am a strong advocate for best practices in software development. From documenting processes and ensuring comprehensive logging to adopting microservices architecture and CQRS patterns, I am committed to delivering high-quality, maintainable code. My preferences include working with monorepos, implementing thorough unit and integration testing, and utilizing monitoring tools to keep systems running smoothly.
+
 ![Documentation](https://img.shields.io/badge/-Documentation-4E9A06?logo=read-the-docs)
 ![Logging](https://img.shields.io/badge/-Logging-3E4E88?logo=logstash)
 ![Microservices](https://img.shields.io/badge/-Microservices-0078D7?logo=microgen)
@@ -57,10 +63,14 @@ Results-oriented software engineer with 4 years of experience in designing and i
 ![Monitoring](https://img.shields.io/badge/-Monitoring-E6522C?logo=prometheus)
 
 **Standards:**  
+> Adhering to industry standards is crucial for interoperability and quality. I am well-versed in ISO 8583 for financial transactions and HL7 for healthcare data exchange, ensuring that the systems I develop meet stringent regulatory and functional standards.
+
 ![ISO 8583](https://img.shields.io/badge/-ISO%208583-FF9933?logo=iso)
 ![HL7](https://img.shields.io/badge/-HL7-FF3300?logo=hl7)
 
 ## Notable Certifications
+
+> I am committed to continuous learning and professional development. Here are some of the certifications I have earned:
 
 - [Software Design and Architecture Specialization (Coursera)](https://www.coursera.org/account/accomplishments/specialization/MWZKNM6WG4P4)
 - [Software Architecture & Technology of Large-Scale Systems (Udemy)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-86422d0b-aceb-4388-8254-fb778c1fe9e5.pdf)
