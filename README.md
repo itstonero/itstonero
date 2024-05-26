@@ -1,6 +1,4 @@
-# Chigozie A. Asadu
-
-**Software Engineer**
+# Software Engineer
 
 [![Email](https://img.shields.io/badge/Email-asadu.anthony%40outlook.com-red)](mailto:asadu.anthony@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-itstonero-blue?logo=github)](https://github.com/itstonero)
